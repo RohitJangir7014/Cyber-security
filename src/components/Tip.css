@@ -1,0 +1,25 @@
+.headere{
+    background: #3acb07;
+    height: 10vh;
+}
+
+.bg{
+    background-color: rgb(17, 25, 39);
+    width: 100%;
+}
+
+.b{
+    color: greenyellow;
+}
+
+.text{
+    text-decoration: none;
+    color: black;
+    
+}
+.fig{
+    background-color: black;
+}
+nav a{
+    text-decoration: none;
+}
